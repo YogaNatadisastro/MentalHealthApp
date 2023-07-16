@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App Mental Health</string>
+    <string name="doctor">Dr. Kung Lao</string>
+    <string name="chatbot">Chat Bot</string>
+    <string name="chat">Chat</string>
+    <string name="user">User</string>
+    <string name="notif">Notif</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bot_nav_bar">BotNavBarActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="clicklogin">click_login</string>
+</resources>

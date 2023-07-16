@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322740727440",
+    "project_id": "login-health-firebase",
+    "storage_bucket": "login-health-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322740727440:android:a48fc75879fa28b99db215",
+        "android_client_info": {
+          "package_name": "com.app.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322740727440-jt1nanje8r6anh7d9dekhtm6cqmqg50v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4A_2_NVWXChdrkNfJ-nHefiM-9s3a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322740727440-jt1nanje8r6anh7d9dekhtm6cqmqg50v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
