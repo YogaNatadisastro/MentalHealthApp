@@ -72,7 +72,7 @@ public class Login_user extends AppCompatActivity {
                 return;
             }
 
-            mAuth.createUserWithEmailAndPassword(email, password)
+            mAuth.signInWithEmailAndPassword(email, password)
                     .addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                         @Override
                         public void onComplete(@NonNull Task<AuthResult> task) {

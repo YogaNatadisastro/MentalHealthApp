@@ -53,7 +53,5 @@ public class DiaryAdapter extends FirestoreRecyclerAdapter<Diary, DiaryAdapter.D
             contentTextView = itemView.findViewById(R.id.diary_content_text_view);
             timeStampTextView = itemView.findViewById(R.id.timestamp);
         }
-
-
     }
 }
