@@ -27,8 +27,6 @@ public class Home extends AppCompatActivity {
                 replaceFragment(new HomeFragment());
             } else if (itemId == R.id.chat) {
                 replaceFragment(new ChatFragment());
-            } else if (itemId == R.id.notif) {
-                replaceFragment(new ReminderFragment());
             } else if (itemId == R.id.user) {
                 replaceFragment(new ProfileFragment());
             }
